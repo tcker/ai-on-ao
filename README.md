@@ -7,9 +7,9 @@
 ---
 
 ### Instructions
-- Install the extension depending on your browser **Arweave Wallet**
-- Create an account 
-- Use the online Lua compiler for blockchain and connect your arweave wallet to this [Lua Online Compiler](https://ide.betteridea.dev/)
+- Install the extension depending on your browser **[Arweave Wallet](https://www.arconnect.io/)**
+- Create an account then follow the steps
+- Use the online Lua compiler for blockchain and connect your arweave wallet to this **[Lua Online Compiler](https://ide.betteridea.dev/)**
 - go to the **Packages** Tab then install Package **@sam/Llama-Herder**
 - To run **main.lua** you must have a Arweave token **"When I just get it for free for learning"**
 - Go to **Interact Tab** Target must be your AO Process, its on the bottom right then copy paste it on the form **"Target:"**
