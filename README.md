@@ -2,7 +2,7 @@
 
 ---
 
-### Collaboration with Filipino Web Development Peers with **Theo** on Arweave "AI Blockchain Developer"
+### Collaboration with Filipino Web Development Peers with **[Theo](https://www.linkedin.com/in/theoroque/)** on Arweave "AI Blockchain Developer"
 
 ---
 
